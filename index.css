@@ -1,0 +1,38 @@
+img{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+.reviews {
+    margin: auto !important;
+    text-align: center;
+    margin: 3rem;
+    border: 2px solid white;
+    box-shadow: 8px 16px 42px -42px;
+    height: 80vh;
+    width: 30vw;
+}
+
+#nextbtn{
+    position: relative;
+    right: -41%;
+}
+
+#prevbtn{
+    position: relative;
+    right: 41%;
+}
+
+button{
+    background-color: #28A745;
+    border: none;
+    color: white;
+    padding: 1rem;
+}
